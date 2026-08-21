@@ -18,7 +18,7 @@ You can personalize the agent by training it with various data sources to match 
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/z3roai/Riona-AI-Agent.git
+   git clone https://github.com/ferris007/Riona-AI-Agent.git
    cd Riona-AI-Agent
    ```
 
