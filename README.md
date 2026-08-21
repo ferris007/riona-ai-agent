@@ -1,4 +1,4 @@
-## Riona-AI-Agent 🌸
+## Riona-AI-Agent
 
 Riona-AI-Agent is an AI-powered automation tool designed to interact with various social media platforms, including **Instagram**, **Twitter**, and **GitHub**. It leverages advanced AI models to generate engaging content, automate interactions, and manage social media accounts efficiently.
 
